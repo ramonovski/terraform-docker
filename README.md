@@ -42,7 +42,7 @@ Once you have a copy of this project, execute the following commands:
 $ terraform plan
 ```
 
-2. Applying the changes:
+2. Applying the changes
 ```
 $ terraform apply
 ```
