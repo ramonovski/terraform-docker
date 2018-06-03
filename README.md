@@ -36,13 +36,17 @@ See the following link to retrieve them:
 
 Once you have a copy of this project, execute the following commands:
 
+1. Initializing the working directory 
+```
+$ terraform init
+```
 
-1. Creating an execution plan to make sure everything will run accordingly
+2. Creating an execution plan to make sure everything will run accordingly
 ```
 $ terraform plan
 ```
 
-2. Applying the changes
+3. Applying the changes
 ```
 $ terraform apply
 ```
