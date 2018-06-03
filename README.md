@@ -21,7 +21,7 @@ In order to run it, make sure you have the following requirements:
 - An AWS account. Note that only free tier componens are needed. 
 
 
-- The following two values from your AWS account that you will need to input in the file terraform.tfvars
+- The following two values from your AWS account that you will need to input in the file **terraform.tfvars**
 
 ```
 access_key = "insert your access key"
@@ -37,12 +37,12 @@ See the following link to retrieve them:
 Once you have a copy of this project, execute the following commands:
 
 
-Creating an execution plan to make sure everything will run accordingly
+1. Creating an execution plan to make sure everything will run accordingly
 ```
 $ terraform plan
 ```
 
-Applying the changes:
+2. Applying the changes:
 ```
 $ terraform apply
 ```
