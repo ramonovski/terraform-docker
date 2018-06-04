@@ -50,9 +50,9 @@ $ terraform apply
 
 
 ### Testing 
-Once you see the following output you can now visit the public IP of your instance to access the content of the test html page.
+Once you see the following output you can now visit the public IP of your instance provided in the output to access the content of the test html page.
 ```
 Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 ```
 
-You can start monitoring the activity of the Load Balancer in your AWS Console.
+You can also go to the DNS name of the Load Balancer, also provided in the output, to make sure it's working and start monitoring the activity of the Load Balancer in your AWS Console.
