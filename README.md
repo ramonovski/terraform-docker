@@ -52,13 +52,10 @@ $ terraform apply
 ```
 
 
-<<<<<<< HEAD
 ### Testing 
+
 Once you see the following output you can now visit the public IP of your instance provided in the output to access the content of the test html page.
-=======
-## Testing 
-Once you see the following output you can now visit the public IP of your instance to access the content of the test html page.
->>>>>>> 841050c7306d9ac7d77c7fd5eb43a00941f3744e
+
 ```
 Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 ```
